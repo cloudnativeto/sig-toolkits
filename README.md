@@ -4,4 +4,4 @@
 
 进入小工具 SIG 页面：<https://i.cloudnative.to/toolkits/>
 
-负责人：[张海立（@webup](https://github.com/webup)
+负责人：[张海立（@webup）](https://github.com/webup)
