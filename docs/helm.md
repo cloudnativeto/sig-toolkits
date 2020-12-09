@@ -54,13 +54,13 @@ sudo snap install helm --classic
 
 ## 快速上手 Helm 
 
-### 使用 Helm 工具链安装并管理 K8s 应用
+### [使用 Helm 工具链安装并管理 K8s 应用](https://www.yuque.com/serviceup/k8s-hands-on/helm)
 
 > 来源：海立 @ [ServiceUP](https://www.yuque.com/serviceup) &gt; [快速上手 Kubernetes ](https://www.yuque.com/serviceup/k8s-hands-on)
 
 本文将介绍为何要使用 Helm 进行 Kubernetes 软件包管理，并通过一些示例展示如何使用 Helm 和 [Helmfile](https://github.com/roboll/helmfile) 部署和管理 Kubernetes 应用。 
 
-### 告别手写，一键生成 Helm Chart README 文件 <a id="activity-name"></a>
+### [告别手写，一键生成 Helm Chart README 文件](https://mp.weixin.qq.com/s?__biz=MzI4MzcwMTA5Nw==&mid=2247483835&idx=1&sn=848d46198b023a00a0b730cdeaade126) <a id="activity-name"></a>
 
 > 来源：[郭旭东](https://github.com/sunny0826) @ 云原生之路 &gt; [云原生工具箱](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4MzcwMTA5Nw==&action=getalbum&album_id=1416096301506314242&scene=173&from_msgid=2247483835&from_itemidx=1&count=3#wechat_redirect)
 
