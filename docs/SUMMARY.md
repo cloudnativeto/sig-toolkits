@@ -6,5 +6,6 @@
 
 ---
 
+* [kubectl](kubectl.md)
 * [Helm](helm.md)
 

@@ -21,6 +21,12 @@ brew install helm
 ```
 {% endtab %}
 
+{% tab title="Snap" %}
+```
+sudo snap install helm --classic
+```
+{% endtab %}
+
 {% tab title="Chocolatey" %}
 ```bash
 choco install kubernetes-helm
@@ -36,12 +42,6 @@ scoop install helm
 {% tab title="GoFish" %}
 ```
 gofish install helm
-```
-{% endtab %}
-
-{% tab title="Snap" %}
-```
-sudo snap install helm --classic
 ```
 {% endtab %}
 {% endtabs %}
