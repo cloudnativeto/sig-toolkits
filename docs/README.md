@@ -1,22 +1,29 @@
 ---
-description: 云原生社小工具 SIG
+description: 云原生社区小工具 SIG
 ---
 
 # 欢迎
 
 欢迎来到云原生社区小工具 SIG（特别兴趣小组）！
 
-### 加入小工具 SIG
+本兴趣小组希望提供一个平台让社区小伙伴们可以分享各种云原生生态中的小工具的使用、操作技巧和 Walkthough，通过列举具体过程（和过程中踩过的坑）帮助大家能参与到云原生的动手实践中来。
 
-请填写[申请表](https://wj.qq.com/s2/7279251/7934)加入微信交流群。
+* 🚀 帮助新手快速入门、上手云原生（特别是 Kubernetes）相关技术
+* 🧰 帮助有一定经验的开发者相互取长补短、交流共进，丰富大家的 “武器库”  
 
-### 如何提问
+## 加入小工具 SIG
 
-有关于小工具的问题请[提交 Issue](https://github.com/cloudnativeto/sig-toolkits/issues/new) 后将链接发到微信群中讨论。
+请填写 申请表 加入微信交流群。
 
-### 联系
+## 如何投稿
 
-负责人：[张海立（@webup）](https://github.com/webup)
+有关于小工具的各类使用、操作技巧和 Walkthough 的投稿请在此 [提交 Issue](https://github.com/cloudnativeto/sig-toolkits/issues/new) 。
 
+## 如何提问
 
+有关于小工具 SIG 的问题请 [提交 Issue](https://github.com/cloudnativeto/sig-toolkits/issues/new) 后将链接发到微信群中讨论。
+
+## 联系
+
+负责人：[张海立](https://github.com/webup)
 
