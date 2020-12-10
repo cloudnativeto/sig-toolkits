@@ -6,7 +6,7 @@ description: Kubernetes CLI To Manage Your Clusters In Style!
 
 [K9s](https://github.com/derailed/k9s) 提供了一个命令行界面来与你的 Kubernetes 集群进行交互。这个项目的目的是让你更容易在集群外浏览、观察和管理你的应用程序。K9s 会持续观察 Kubernetes 的变化，并提供后续的命令与你观察到的资源进行交互。
 
-![K9s &#x4F7F;&#x7528;&#x5C55;&#x793A;](https://asciinema.org/a/305944.svg)
+[![K9s &#x754C;&#x9762;&#x9884;&#x89C8;](https://asciinema.org/a/305944.svg)](https://asciinema.org/a/305944)
 
 ## K9s 的安装及热键绑定
 
