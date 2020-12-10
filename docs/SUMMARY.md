@@ -7,5 +7,6 @@
 ---
 
 * [kubectl](kubectl.md)
+* [K9s](k9s.md)
 * [Helm](helm.md)
 
