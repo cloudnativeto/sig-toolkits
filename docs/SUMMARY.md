@@ -4,9 +4,7 @@
 
 ## Kubernetes
 
----
-
-* [kubectl](kubectl.md)
-* [K9s](k9s.md)
-* [Helm](helm.md)
+* [kubectl](kubernetes/kubectl.md)
+* [K9s](kubernetes/k9s.md)
+* [Helm](kubernetes/helm.md)
 

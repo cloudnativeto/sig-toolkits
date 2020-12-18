@@ -23,5 +23,5 @@ description: 云原生社区小工具 SIG
 
 请填写 申请表 加入微信交流群。
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2813%29%20%281%29.png)
 

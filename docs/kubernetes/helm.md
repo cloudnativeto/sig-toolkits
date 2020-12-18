@@ -50,7 +50,7 @@ gofish install helm
 
 访问 [Artifact Hub](https://artifacthub.io/)，搜索众多公共资源库中的 [Helm Charts](https://artifacthub.io/packages/search?page=1&kind=0)。
 
-![Artifact Hub &#x5B98;&#x7F51;&#x9996;&#x9875;](.gitbook/assets/image.png)
+![Artifact Hub &#x5B98;&#x7F51;&#x9996;&#x9875;](../.gitbook/assets/image.png)
 
 ## 快速上手 Helm 
 

@@ -38,6 +38,14 @@ scoop install kubectl
 
 [Krew](https://krew.dev/) 提供了一种对插件进行打包和分发的跨平台方式。 基于这种方式，你会在所有的目标平台（Linux、Windows、macOS 等）使用同一 种打包形式，包括为用户提供更新。 Krew 也维护一个 [插件索引（plugin index）](https://krew.sigs.k8s.io/plugins/) 以便其他人能够发现你的插件并安装之。
 
+## [kubectl 备忘单](https://kubernetes.io/zh/docs/reference/kubectl/cheatsheet/)
+
+### [kubectl 常用命令整理](https://docs.ethanshen.cn/kubernetes/kubectl_common.html)
+
+> 来源：[沈旭](https://github.com/a-ethan) @ [伊桑老师的产品社](https://www.ethanshen.cn/) &gt; [伊桑老师的文档](https://docs.ethanshen.cn/)
+
+Kubernetes 运维工程师日常常用的 kubectl 工具，以及一些特殊用法示例。
+
 ## kubectl 生态圈小工具
 
 ### [kubecm: 管理你的 kubeconfig](https://mp.weixin.qq.com/s?__biz=MzI4MzcwMTA5Nw==&mid=2247483762&idx=1&sn=d03cacaa90db9cc12dc3a7c01928790c) <a id="activity-name"></a>
@@ -46,7 +54,7 @@ scoop install kubectl
 
 该项目脱胎于 [mergeKubeConfig](https://github.com/sunny0826/mergeKubeConfig) 项目，最早写该项目的目的是在一堆杂乱无章的 `kubeconfig` 中自由的切换。随着需要操作的 Kubernetes 集群越来越多，在不同的集群之间切换也越来越麻烦，而操作 Kubernetes 集群的本质不过是通过 `kubeconfig` 访问 Kubernetes 集群的 API Server，以操作 Kubernetes 的各种资源，而 `kubeconfig` 不过是一个 YAML 文件，用来保存访问集群的密钥，最早的 mergeKubeConfig 不过是一个操作 YAML 文件的 Python 脚本。而随着 Go 学习的深入，也就动了重写这个项目的念头，就这样 [kubecm](https://github.com/sunny0826/kubecm) 诞生了。
 
-![kubecm - Manage your kubeconfig more easily](.gitbook/assets/image%20%2811%29.png)
+![kubecm - Manage your kubeconfig more easily](../.gitbook/assets/image%20%2811%29.png)
 
 ### [kubectl 周边的一些实用命令行小工具](https://www.yuque.com/serviceup/k8s-hands-on/cli-tools)
 
