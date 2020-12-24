@@ -60,6 +60,12 @@ gofish install helm
 
 本文将介绍为何要使用 Helm 进行 Kubernetes 软件包管理，并通过一些示例展示如何使用 Helm 和 [Helmfile](https://github.com/roboll/helmfile) 部署和管理 Kubernetes 应用。 
 
+### [使用 Helmfile 解放你的 Helm Chart](https://mp.weixin.qq.com/s?__biz=MzI4MzcwMTA5Nw==&mid=2247484349&idx=1&sn=3bb180e1494e5b7229c66fec6e329f08) <a id="activity-name"></a>
+
+> ：[郭旭东](https://github.com/sunny0826) @ 云原生之路 &gt; [云原生工具箱](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4MzcwMTA5Nw==&action=getalbum&album_id=1416096301506314242&scene=173&from_msgid=2247483835&from_itemidx=1&count=3#wechat_redirect)
+
+Helm 作为 Kubernetes 的包管理工具和 CNCF 毕业项目，在业界被广泛使用。但在实际使用场景中的一些需求 Helm 并不能很好的满足，需要进行一些修改和适配，如同时部署多个 Chart、不同部署环境的区分以及 Chart 的版本控制。[Helmfile](https://github.com/roboll/helmfile) 就是一个能够很好解决这些问题的小工具。
+
 ### [告别手写，一键生成 Helm Chart README 文件](https://mp.weixin.qq.com/s?__biz=MzI4MzcwMTA5Nw==&mid=2247483835&idx=1&sn=848d46198b023a00a0b730cdeaade126) <a id="activity-name"></a>
 
 > 来源：[郭旭东](https://github.com/sunny0826) @ 云原生之路 &gt; [云原生工具箱](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4MzcwMTA5Nw==&action=getalbum&album_id=1416096301506314242&scene=173&from_msgid=2247483835&from_itemidx=1&count=3#wechat_redirect)
