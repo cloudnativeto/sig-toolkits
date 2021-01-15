@@ -68,3 +68,9 @@ Kubernetes 运维工程师日常常用的 kubectl 工具，以及一些特殊用
 
 最近接手了一个规模比较大的集群，光是整理集群中的资源就使人头昏眼花，虽然我自认 `kubectl` 使用的已经十分熟练，但是上千个 Kubernetes Resource 看下来还是不堪重负。在不能为集群安装任何其他工具的情况下，可以改造的就只有我自己的 Client 端，也就是 `kubectl` 了。本文就介绍一个有趣的 kubectl 插件：[`kubectl-graph`](https://github.com/steveteuber/kubectl-graph)。
 
+### [使用 kubectl-rabbitmq 部署和运维 K8s 上的 RabbitMQ 集群](https://mp.weixin.qq.com/s/YLYpYrolCZttrdMx0n3qiQ) <a id="kubectl-rabbitmq"></a>
+
+> 来源：[郭旭东](https://github.com/sunny0826) @ 云原生之路 &gt; [云原生工具箱](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI4MzcwMTA5Nw==&action=getalbum&album_id=1416096301506314242)
+
+最近接到一个在 K8s 中部署一个 RabbitMQ 集群的任务，既然是部署在 K8s 集群中，首选的当然是 RabbitMQ Operator 了。不过在浏览官方文档时，意外的官方也有开发一个 kubectl-rabbitmq 的插件来帮助部署和运维 RabbitMQ Operator，在试用后发现体验意外的不错。那么本文我们就使用 kubectl-rabbitmq 来部署一个 RabbitMQ 集群吧！
+
