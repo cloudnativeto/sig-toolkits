@@ -16,3 +16,11 @@ description: 监控 Kubernetes 集群并提供告警服务的小工具
 
 介绍一个工具 BotKube，可以监控 Kubernetes 集群并提供告警服务，支持推送通知至多个通知渠道。
 
+## [小工具介绍：KubeEye](https://github.com/kubesphere/kubeeye/blob/main/README_zh.md)
+
+> 来源：KubeSphere @ KubeEye：Kubernetes 集群自动巡检工具
+
+[KubeEye](https://github.com/kubesphere/kubeeye) 旨在发现 Kubernetes 上的各种问题，比如应用配置错误（使用Polaris）、集群组件不健康和节点问题（使用Node-Problem-Detector）。除了预定义的规则，它还支持自定义规则。
+
+
+
